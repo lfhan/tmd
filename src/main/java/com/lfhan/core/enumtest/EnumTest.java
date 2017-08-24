@@ -3,7 +3,13 @@ package com.lfhan.core.enumtest;
 public class EnumTest {
 
 	enum WeekEnum{
-		Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+		Monday,
+		Tuesday,
+		Wednesday,
+		Thursday,
+		Friday,
+		Saturday,
+		Sunday
 	} 
 	
 	public static void main(String[] args) {
